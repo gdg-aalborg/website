@@ -32,25 +32,6 @@
         </v-flex>
       </v-layout>
     </v-container>
-  
-    <v-container fluid class="py-5" style="background-color:#F9F9F9">
-      <v-layout wrap align-start justify-start row fill-height>
-        <v-flex xs12 md10 offset-md1 offset-lg1 >
-          <p class="google-font mb-2" style="font-size:150%">Our Feature Event & Meetup</p>
-        </v-flex>
-        <v-flex xs12 md10 offset-md1 offset-lg1 >
-          <featureEvent />
-        </v-flex>
-      </v-layout>
-    </v-container>
-    
-     <!-- <v-container fluid >
-      <v-layout wrap align-center justify-center row fill-height>
-        <v-flex xs12 md10>
-          <wtmInfo />
-        </v-flex>
-      </v-layout>
-    </v-container> -->
 
     <v-container fluid >
       <v-layout wrap align-center justify-center row fill-height>
@@ -59,9 +40,6 @@
         </v-flex>
       </v-layout>
     </v-container>
-
-    
-
 
   </v-content>
   
