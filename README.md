@@ -20,8 +20,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 * [VueJS](https://vuejs.org/)
 * [Vuetify](https://vuetifyjs.com/en/)
-* [Service Worker & PWA](https://www.npmjs.com/package/vue-pwa)
-* [Workbox](https://developers.google.com/web/tools/workbox)
 
 ## Contributing
 
