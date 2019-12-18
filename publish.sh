@@ -3,6 +3,9 @@
 # abort on errors
 set -e
 
+echo Linting..
+npm run lint
+
 echo Building. this may take a minute...
 npm run build
 

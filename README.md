@@ -10,8 +10,8 @@ GDG Aalborg is a website based on [Aura - GDG[x]](https://github.com/gdg-x/aura)
 
 The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) team experience of running meetups/events.
 
-### Lints and fixes files
-1. For Lints and Fixes files: `npm run lint`
+### Publish
+To deploy and publish website as Github Page, run: `sh publish.sh`
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
