@@ -1,12 +1,12 @@
 {
     "ChapterName":"GDG Aalborg",
-    "ChapterShortDescription":"Google Developers Group Aalborg is...",
-    "ChapterLongDec":"Google Developer Group Aalborg is inspired...",
+    "ChapterShortDescription":"Google Developer Group Aalborg is an initiative to concentrate the efforts of many developers in and around Aalborg to learn, share and get productive using the various Google products.",
+    "ChapterLongDec":"",
     "ChapterMeetupLink":"https://www.meetup.com/GDG-Aalborg",
-    "ChapterEmail":"gdgjalandhar@gmail.com",
+    "ChapterEmail":"contact@gdgaalborg.dk",
     "website":"https://gdgaalborg.dk",
     "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGJalandhar","WTMJalandhar","GDG","WTM"],
+    "ChapterHashTags":["GDGAalborg","WTMAalborg","GDG","WTM"],
     "socialLinks":[
         {
             "name" : "Facebook",
