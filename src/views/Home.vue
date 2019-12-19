@@ -50,9 +50,7 @@
   import whatWeDo from '@/components/home/whatWeDo'
   import AboutGDGChapter from '@/components/home/AboutGDGChapter'
   import eventshowcase from '@/components/home/eventshowcase'
-  // import wtmInfo from '@/components/home/wtmInfo'
   import partners from '@/components/home/partners'
-  import featureEvent from '@/components/home/featureEvent'
   
   export default {
     components: {
@@ -60,9 +58,7 @@
       whatWeDo,
       AboutGDGChapter,
       eventshowcase,
-      // wtmInfo,
-      partners,
-      featureEvent
+      partners
     }
   }
 </script>
