@@ -24,7 +24,7 @@ export default {
     CoreToolbar,
     CoreFooter,
     CoreView,
-      BottomNav
+    BottomNav
   }
 }
 </script>
